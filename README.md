@@ -43,3 +43,9 @@ foouser:536
 ```
 
 For convenience and ease of tracking, use the users' user IDs as the project IDs.
+
+## Usage
+Run the three scripts in order:
+1. make_projects.sh
+2. setup_projects.sh
+3. Either run the script turn_on_quotas.sh, or set a default quota for all projects (see the script for the command to use)
